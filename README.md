@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARandvar
 - 👀 I’m interested in Web Dev. Mobile Apps, Automation, Games
-- 🌱 I’m currently learning Flutter, ASP.NET
+- 🌱 I’m currently learning Flutter, ASP.NET, Javascript
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me --->
 
